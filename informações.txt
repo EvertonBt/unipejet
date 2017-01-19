@@ -1,0 +1,11 @@
+Informações para Acesso ao Sistema
+
+A aplicação foi toda testada no google chrome, pois o firefox não suporta o input do tipo date, e o servidor usado foi o Tomcat 8. O arquivo do banco de dados está dentro do projeto, o nome do arquivo é lojinha.sql. As credenciais para acesso total do sistema são:
+
+login: administrador@gmail.com
+senha: 123
+
+ou
+
+login: fugioka@gmail.com
+senha: 123
